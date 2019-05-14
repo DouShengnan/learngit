@@ -1,2 +1,0 @@
-I'm learning Git.
-This is a perfect system.
